@@ -1,0 +1,19 @@
+{
+  "name": "thisisbrix",
+  "version": "1.0.0",
+  "description": "artist page build with react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmadeira7/thisIsBrix.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmadeira7/thisIsBrix/issues"
+  },
+  "homepage": "https://github.com/bmadeira7/thisIsBrix#readme"
+}

@@ -1,0 +1,21 @@
+.navbar{
+    height: 15vh;
+}
+.soundCloud {
+    font-size: 5vw;
+    padding-left: 5vw;
+}
+
+.navbar-brand{
+    font-family: 'Rock Salt', cursive;
+    font-size: 3vw;
+}
+.nav-item{
+    font-family: 'Rock Salt', cursive;
+    padding-right: 3vw;
+    padding-left: 3vw;
+    padding-top: 1.5vw;
+}
+body{
+    background-image: url("https://images2.westword.com/imager/u/original/6669093/red_rocks_brandon_marshall.jpg")
+}
